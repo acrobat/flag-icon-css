@@ -52,8 +52,8 @@
   <rect
      style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.64999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect1433"
-     width="600"
-     height="300"
+     width="512"
+     height="512"
      x="0"
      y="-7.6293945e-006"
      rx="5.5511257e-015"
@@ -66,11 +66,11 @@
      ry="7.5502982e-016"
      rx="5.5511257e-015"
      height="60"
-     width="600" />
+     width="512" />
   <use
      xlink:href="#use3168"
-     height="300"
-     width="600"
+     height="512"
+     width="512"
      y="0"
      x="0"
      id="use6771"
